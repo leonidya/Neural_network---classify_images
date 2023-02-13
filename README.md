@@ -16,3 +16,6 @@ What can we learn from these experiments? Can they help as choose the best model
 I use some plots to make my arguments easier to convey. 
 
 Then I test performance of the model in the test set, and add confusion matrix. 
+
+
+Code in progress...
