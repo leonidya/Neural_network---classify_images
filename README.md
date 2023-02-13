@@ -5,8 +5,10 @@ Zalando is a multinational e-commerce platform selling fashion goods in many Eur
 
 In this code I create neural network with few hidden layers to classify images in Fashion MNIST dataset. Then I “Play” with the number of the hidden layers and size of each layer. For each case, I measure:
 
-i. The total number of network parameters
+i. The total number of network parameters.
+
 ii. The network accuracy on the training and validation set (for each batch).
+
 iii. Training and inference times.
 
 
